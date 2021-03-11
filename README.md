@@ -1,3 +1,12 @@
+This is an amazon web clone that was built to practice React front end and to learn how to deploy app on firebase . This application has following salient features :
+
+1.) User Authentication
+2.) Add to cart / Remove from cart with dynamic Price Total window
+
+This app is deployed at https://clone-ab4af.web.app 
+
+Thanks for visiting .
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
